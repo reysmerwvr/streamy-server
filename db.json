@@ -3,7 +3,14 @@
     {
       "title": "My Stream",
       "description": "This is an amazing stream",
+      "userId": "114059154506595526829",
       "id": 1
+    },
+    {
+      "title": "MGS Updated",
+      "description": "MGS Updated",
+      "userId": "114059154506595526829",
+      "id": 2
     }
   ]
 }

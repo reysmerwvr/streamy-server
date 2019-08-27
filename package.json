@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "streamy-server",
   "version": "1.0.0",
   "description": "JSON Server",
   "main": "index.js",
@@ -7,7 +7,11 @@
     "start": "json-server -p 3001 -w db.json"
   },
   "author": "Reysmer Valle",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reysmerwvr/streamy-server.git"
+  },
   "dependencies": {
     "json-server": "^0.15.0"
   }
